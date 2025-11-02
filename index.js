@@ -9,5 +9,5 @@ app.listen(8000,()=>{
 })
 
 
-import noteRoute from "./routes/note.route.js";
-app.use('/note',noteRoute)
+// import noteRoute from "./routes/note.route.js";
+// app.use('/note',noteRoute)
